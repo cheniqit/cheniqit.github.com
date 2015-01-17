@@ -22,11 +22,11 @@ DEFAULT_LANG = u'zh'
 
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
-GOOGLE_ANALYTICS = 'UA-42648273-1'
+GOOGLE_ANALYTICS = ''
 
 GOOGLE_CUSTOM_SEARCH_SIDEBAR = '012191777864628038963:sjrtj5zxtec'
 
-DISQUS_SITENAME = 'lizheruisworld'
+DISQUS_SITENAME = 'cheniqit'
 
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
@@ -50,19 +50,12 @@ SITEMAP = {
 }
 
 # Blogroll
-LINKS =  (('Google', 'https://www.google.com/ncr'),
+LINKS =  (('Zhihu', 'http://www.zhihu.com/'),
           ('Python', 'http://python.org/'),
           ('Pelican', 'http://docs.getpelican.com/'),
          )
 
 # Social widget
-SOCIAL = (('Github', 'https://github.com/lizherui'),
-          ('Quora', 'http://www.quora.com/Zherui-Li'),
-          ('Twitter', 'https://twitter.com/lzrak47'),
-          ('Facebook', 'https://www.facebook.com/profile.php?id=100004875786021'),
-          ('Linkedin', 'http://www.linkedin.com/profile/view?id=232391796'),
-          (u'微博', 'http://weibo.com/lzrm4a1'),
-          (u'知乎', 'http://www.zhihu.com/people/li-zhe-rui'),
-          (u'豆瓣', 'http://www.douban.com/people/lizherui'),
+SOCIAL = (('Github', 'https://github.com/cheniqit'),          
          )
 
