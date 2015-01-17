@@ -1,1 +1,1 @@
-Sitemap: http://www.lizherui.com/sitemap.xml
+Sitemap: http://cheniqit.github.com/sitemap.xml

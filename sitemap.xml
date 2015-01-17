@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://www.lizherui.com/</loc>
-<lastmod>2015-01-17T14:16:36-00:00</lastmod>
+<loc>http://cheniqit.github.com/</loc>
+<lastmod>2015-01-17T14:26:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/archives.html</loc>
-<lastmod>2015-01-17T14:16:36-00:00</lastmod>
+<loc>http://cheniqit.github.com/archives.html</loc>
+<lastmod>2015-01-17T14:26:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/tags.html</loc>
-<lastmod>2015-01-17T14:16:36-00:00</lastmod>
+<loc>http://cheniqit.github.com/tags.html</loc>
+<lastmod>2015-01-17T14:26:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/categories.html</loc>
-<lastmod>2015-01-17T14:16:36-00:00</lastmod>
+<loc>http://cheniqit.github.com/categories.html</loc>
+<lastmod>2015-01-17T14:26:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/pages/about.html</loc>
-<lastmod>2015-01-17T14:16:36-00:00</lastmod>
+<loc>http://cheniqit.github.com/pages/about.html</loc>
+<lastmod>2015-01-17T14:26:59-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/pages/2014/12/13/我的2014总结.html</loc>
+<loc>http://cheniqit.github.com/pages/2014/12/13/我的2014总结.html</loc>
 <lastmod>2014-12-13T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/category/sheng-huo.html</loc>
+<loc>http://cheniqit.github.com/category/life.html</loc>
 <lastmod>2014-12-13T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/tag/wo-de-2014zong-jie.html</loc>
+<loc>http://cheniqit.github.com/tag/wo-de-2014zong-jie.html</loc>
 <lastmod>2014-12-13T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.lizherui.com/author/lizherui.html</loc>
+<loc>http://cheniqit.github.com/author/qi-bai.html</loc>
 <lastmod>2014-12-13T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
