@@ -53,6 +53,7 @@ SITEMAP = {
 LINKS =  (('Zhihu', 'http://www.zhihu.com/'),
           ('Python', 'http://python.org/'),
           ('Pelican', 'http://docs.getpelican.com/'),
+          ('Maxing', 'http://maxiang.info/')          
          )
 
 # Social widget
