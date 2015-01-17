@@ -6,13 +6,17 @@ Title: About
 
 这个博客使用Pelican技术，采用极简Style搭建在Github上，它将记录我的一些历程。
 
+ Java Software Engineer , node.js, go, python
+
+ Future economists
+
 **写这个博客的初衷**
 
     1. 自己所感兴趣的话题中（金融，程序，读书）分享一些东西
 
     2. 更多的人了解我，毕竟还是比较闷骚的
 
-    3. 年之后回头看看当年的自己在想些什么，做些什么
+    3. 多少年之后回头看看当年的自己在想些什么，做些什么
 
 
 In a word, I'm only interested in **getting things better**.
