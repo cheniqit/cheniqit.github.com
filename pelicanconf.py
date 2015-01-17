@@ -57,6 +57,7 @@ LINKS =  (('Zhihu', 'http://www.zhihu.com/'),
          )
 
 # Social widget
-SOCIAL = (('Github', 'https://github.com/cheniqit'),          
+SOCIAL = (('Github', 'https://github.com/cheniqit'),
+          ('Weibo','http://weibo.com/cheniqit'),
          )
 
