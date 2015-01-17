@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>奇百的博客</title><link>http://cheniqit.github.com/</link><description></description><atom:link href="http://cheniqit.github.com/feeds%5Cqi-bai.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 17 Jan 2015 00:00:00 +0800</lastBuildDate><item><title>对2015年经济预期</title><link>http://cheniqit.github.com/pages/2015/01/17/%E5%AF%B92015%E5%B9%B4%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%9C%9F.html</link><description>&lt;p&gt;&lt;strong&gt;经济大有可观,生活小亦精彩&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>奇百的博客</title><link href="http://cheniqit.github.com/" rel="alternate"></link><link href="http://cheniqit.github.com/feeds%5Cfinance.atom.xml" rel="self"></link><id>http://cheniqit.github.com/</id><updated>2015-01-17T00:00:00+08:00</updated><entry><title>对2015年经济预期</title><link href="http://cheniqit.github.com/pages/2015/01/17/%E5%AF%B92015%E5%B9%B4%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%9C%9F.html" rel="alternate"></link><updated>2015-01-17T00:00:00+08:00</updated><author><name>奇百</name></author><id>tag:cheniqit.github.com,2015-01-17:pages/2015/01/17/对2015年经济预期.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;经济大有可观,生活小亦精彩&lt;/strong&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;之前的无知&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;标题写的有点大，虽然整天都待在自己的小世界里，但对于对于目前的经济形势还是有点看法的。
@@ -32,27 +32,4 @@
 &lt;li&gt;中国2，3线城市的商品房价格将降低%15，一线城市不会太大的变动。&lt;/li&gt;
 &lt;li&gt;油价将继续持续低价,美国页岩气公司大片大片破产后，价格将回升。&lt;/li&gt;
 &lt;li&gt;2015年美元指数将突破100大关&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">奇百</dc:creator><pubDate>Sat, 17 Jan 2015 00:00:00 +0800</pubDate><guid>tag:cheniqit.github.com,2015-01-17:pages/2015/01/17/对2015年经济预期.html</guid><category>对2015年经济预期</category></item><item><title>我的2014总结</title><link>http://cheniqit.github.com/pages/2014/12/13/%E6%88%91%E7%9A%842014%E6%80%BB%E7%BB%93.html</link><description>&lt;p&gt;&lt;strong&gt;概叙&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2014对于我来说是失意的一年，巨大的落差感，让我感觉之前的努力几乎白白浪费；之前很难想象人究竟会因为什原因失眠，以往我是从来没有失眠过的，而那一阵子却是常常深夜难以入眠，这一年似乎进入人生的一个低谷期，寥寥几笔就当作简单提下2014年的身心状态吧； 正因为我的这一个特殊的时期，我对于2015年的期待是比以往更多的，当然也需要比以往更加努力才行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;年度之2014&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;年度音乐：向往- 张建&lt;/p&gt;
-&lt;p&gt;年度书籍：未来二十年，未来大趋势- 时寒冰&lt;/p&gt;
-&lt;p&gt;年度电影：life in a day&lt;/p&gt;
-&lt;p&gt;年度总结语句：一个失意的人自我修复&lt;/p&gt;
-&lt;p&gt;年度事件：奶奶去世，杭州之行&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2015年关键词&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;人生第一套房子交付；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;个人GDP目标比2015年翻1倍；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;期待爱；&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;下面就由我们来欣赏下年度音乐吧-向往
-&lt;video autoplay src="http://www.xcnyxx.com/yf/xiangwang.mp3" controls="controls"&gt;
-您的浏览器不支持 video 标签。
-&lt;/video&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">奇百</dc:creator><pubDate>Sat, 13 Dec 2014 00:00:00 +0800</pubDate><guid>tag:cheniqit.github.com,2014-12-13:pages/2014/12/13/我的2014总结.html</guid><category>我的2014总结</category></item></channel></rss>
+&lt;/ul&gt;</summary><category term="对2015年经济预期"></category></entry></feed>

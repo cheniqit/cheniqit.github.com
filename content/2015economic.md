@@ -1,11 +1,7 @@
-Date: 2014-01-17
-
+﻿Date: 2015-01-17
 Title: 对2015年经济预期
-
-Category: 金融
-
+Category: finance
 Tags: 对2015年经济预期
-
 Slug: 对2015年经济预期
 
 
