@@ -3,7 +3,7 @@ PELICAN=pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
-INPUTDIR=$(CURDIR)/content
+INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)
 CONFFILE=$(BASEDIR)/pelicanconf.py
 
@@ -46,7 +46,7 @@ $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	-d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
+	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -81,7 +81,6 @@ s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed
 
 github: publish
-	git add -A
-	git commit -m 'ci by cheniqit'
-	git push
+	git add . ; git commit -am 'ci by lizherui' ; git push
+
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload github
